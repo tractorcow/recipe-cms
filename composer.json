@@ -11,11 +11,10 @@
     ],
     "require": {
         "tractorcow/recipe-plugin": "*",
-        "tractorcow/recipe-core": "~4.0.0",
-        "silverstripe/cms": "~4.0.0",
-        "silverstripe/siteconfig": "~4.0.0",
-        "silverstripe/reports": "~4.0.0",
-        "silverstripe/asset-admin": "~1.0.0",
+        "tractorcow/recipe-core": "~3.0",
+        "silverstripe/cms": "^3",
+        "silverstripe/siteconfig": "3.x-dev",
+        "silverstripe/reports": "~3.2@stable",
         "silverstripe-themes/simple": "~3.1.0"
     },
     "extra": {
@@ -23,7 +22,7 @@
             "mysite/code/Page.php"
         ],
         "branch-alias": {
-            "dev-master": "4.0.x-dev"
+            "3.x-dev": "3.2.x-dev"
         }
     },
     "prefer-stable": false,
