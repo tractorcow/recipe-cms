@@ -8,8 +8,7 @@
   "upgrade-only": [
     "silverstripe/cms",
     "silverstripe/siteconfig",
-    "silverstripe/reports",
-    "silverstripe/asset-admin"
+    "silverstripe/reports"
   ],
   "exclude": [
     "tractorcow/recipe-plugin"
