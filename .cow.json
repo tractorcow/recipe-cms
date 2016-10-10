@@ -2,7 +2,7 @@
   "changelog-path": "changelogs/cwp_recipe_basic_{version}.md",
   "changelog-github": true,
   "child-stability-inherit": true,
-  "dependency-constraint": "allow-patch",
+  "dependency-constraint": "loose",
   "vendors": [
     "tractorcow"
   ],
