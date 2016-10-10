@@ -2,6 +2,7 @@
     "name": "tractorcow/recipe-cms",
     "description": "SilverStripe recipe which contains core and page management modules",
     "license": "BSD-3-Clause",
+    
     "type": "silverstripe-recipe",
     "authors": [
         {
