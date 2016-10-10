@@ -2,7 +2,6 @@
     "name": "tractorcow/recipe-cms",
     "description": "SilverStripe recipe which contains core and page management modules",
     "license": "BSD-3-Clause",
-    
     "type": "silverstripe-recipe",
     "authors": [
         {
@@ -12,10 +11,10 @@
     ],
     "require": {
         "tractorcow/recipe-plugin": "*",
-        "tractorcow/recipe-core": "~3.0",
-        "silverstripe/cms": "^3",
-        "silverstripe/siteconfig": "3.x-dev",
-        "silverstripe/reports": "~3.2@stable",
+        "tractorcow/recipe-core": "~3.2.0@stable",
+        "silverstripe/cms": "~3.4.1@stable",
+        "silverstripe/siteconfig": "~3.4.1@stable",
+        "silverstripe/reports": "~3.4.1@stable",
         "silverstripe-themes/simple": "~3.1.0"
     },
     "require-dev": {
