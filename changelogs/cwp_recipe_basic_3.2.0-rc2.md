@@ -7,3 +7,7 @@
 ### API Changes
 
  * 2016-10-10 [d66821b](https://github.com/tractorcow/recipe-core/commit/d66821ba71d1d9ea2e8dc1b9664b4162b21e06e4)  (Damian Mooyman)
+
+### Bugfixes
+
+ * 2016-10-10 [3abcb16](https://github.com/tractorcow/recipe-cms/commit/3abcb1631454bcb593ce046ee9934902530a2db8) Test bug change to cms module (Damian Mooyman)
